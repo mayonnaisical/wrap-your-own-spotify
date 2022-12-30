@@ -2,7 +2,7 @@
 analyzes your spotify data
 
 ## how to use
-step one, download your full spotify data
+step one, download your extended spotify data, you can request that at [here](https://www.spotify.com/ca-en/account/privacy/)
 step two, unzip your spotify data
 step three, place the four python files in the same directory as the "MyData" folder from the zip file
 step four, run wrap_my_spotify.py
